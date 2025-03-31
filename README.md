@@ -12,7 +12,7 @@ Junior Data Analyst
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-glyphs/60/github.png" alt="github"/> <img width="66" height="66" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-Data-Analyst-accounting-and-consulting-smashingstocks-flat-smashing-stocks-4.png" alt="external-Data-Analyst-accounting-and-consulting-smashingstocks-flat-smashing-stocks-4"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-glyphs/60/github.png" alt="github"/> <img width="50" height="50" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-Data-Analyst-accounting-and-consulting-smashingstocks-flat-smashing-stocks-4.png" alt="external-Data-Analyst-accounting-and-consulting-smashingstocks-flat-smashing-stocks-4"/>
 
 
 ### IDE and Tools I Use
