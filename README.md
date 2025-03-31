@@ -9,7 +9,7 @@ Data Analyst
 
 - ⚡ Fun fact: I know .
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/illanchezian-s-1b9976322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/illanchezian-s-1b9976322?](https://www.linkedin.com/in/asvinisekar2709/)utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
@@ -29,6 +29,7 @@ Data Analyst
 - ![Email](https://img.shields.io/badge/-Email-red)
 
 ![ILLANCHEZIAN's GitHub stats]()
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AsviniSekar?theme=forest&font=Sahitya&ext=activity)
 
 [![ILLANCHEZIAN's github activity graph]()
