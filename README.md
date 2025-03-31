@@ -7,7 +7,7 @@ Junior Data Analyst
 - 🌱 I’m currently purshing MCA
 - ⚡ Fun fact: I know Data Analysis .
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/illanchezian-s-1b9976322?](https://www.linkedin.com/in/asvinisekar2709/)utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/asvinisekar2709/)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="50" height="50" src="https://img.icons8.com/ios-glyphs/60/github.png" alt="github"/> <img width="50" height="50" src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/external-Data-Analyst-accounting-and-consulting-smashingstocks-flat-smashing-stocks-4.png" alt="external-Data-Analyst-accounting-and-consulting-smashingstocks-flat-smashing-stocks-4"/>
